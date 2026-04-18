@@ -15,5 +15,10 @@ the window. An in window terminal is also there to see outputs of print statemen
 </div>
 
 ## Technologies Used
--e
--e
+- C++
+- Lua
+- LuaBridge
+- Box2D
+- OpenGL Math (GLM)
+- rapidjson
+- SDL 2
